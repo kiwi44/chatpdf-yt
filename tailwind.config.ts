@@ -4,7 +4,7 @@ module.exports = {
   content: [
     './pages/**/*.{ts,tsx}',
     './components/**/*.{ts,tsx}',
-    './app/**/*.{ts,tsx}',
+    './app/**/*.{tsnpm audit fix,tsx}',
     './src/**/*.{ts,tsx}',
 	],
   theme: {
